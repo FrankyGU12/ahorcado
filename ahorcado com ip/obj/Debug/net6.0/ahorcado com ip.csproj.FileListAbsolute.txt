@@ -1,0 +1,17 @@
+C:\Users\frang\source\repos\ahorcado com ip\bin\Debug\net6.0\ahorcado com ip.exe
+C:\Users\frang\source\repos\ahorcado com ip\bin\Debug\net6.0\ahorcado com ip.deps.json
+C:\Users\frang\source\repos\ahorcado com ip\bin\Debug\net6.0\ahorcado com ip.runtimeconfig.json
+C:\Users\frang\source\repos\ahorcado com ip\bin\Debug\net6.0\ahorcado com ip.dll
+C:\Users\frang\source\repos\ahorcado com ip\bin\Debug\net6.0\ahorcado com ip.pdb
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ahorcado com ip.csproj.AssemblyReference.cache
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ahorcado com ip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ahorcado com ip.AssemblyInfoInputs.cache
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ahorcado com ip.AssemblyInfo.cs
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ahorcado com ip.csproj.CoreCompileInputs.cache
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ahorcado com ip.dll
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\refint\ahorcado com ip.dll
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ahorcado com ip.pdb
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ahorcado com ip.genruntimeconfig.cache
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ref\ahorcado com ip.dll
+C:\Users\frang\source\repos\ahorcado com ip\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\frang\source\repos\ahorcado com ip\obj\Debug\net6.0\ahorcado com ip.csproj.CopyComplete
